@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @ngvu8925
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ngvu8925/ngvu8925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ngvu8925  
+- 💻 Backend Developer (Java Spring Boot)  
+- 🚀 Currently building Microservices projects (E-commerce system)  
+- 🌱 Learning: Microservices Architecture, Docker, JWT Authentication  
+- 🛠 Tech stack: Java, Spring Boot, MySQL, RESTful API  
+- 📫 Contact: nvu0057@gmail.com 
+- ⚡ Fun fact: Passionate about building scalable backend systems  
